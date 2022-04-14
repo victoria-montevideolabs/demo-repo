@@ -1,2 +1,2 @@
 # demo-repo
-Repo for breaking and fixing
+Repository for breaking and fixing
